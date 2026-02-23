@@ -4,7 +4,4 @@ I am a 12-year-old developer obsessed with low-level systems and terminal wizard
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,py,ruby,bash,vim,linux)](https://skillicons.dev)
 
 # My motives
-I am here to share my knowledge, skills, libraries, and utilities to the world :)  
-
-# Goals
-* create 30 repositories over 30 days - 1/30
+I am here to share my knowledge, skills, libraries, and utilities to the world :)
