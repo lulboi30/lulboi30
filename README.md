@@ -1,4 +1,4 @@
-# 0x0C | Systems Programmer 🛠️
+# 0x1B | Systems Programmer 🛠️
 
 I'm a 12-year-old dev obsessed with **low-level systems** and **terminal wizardry**. 
 I build minimalist libraries and utilities that stay out of your way.
