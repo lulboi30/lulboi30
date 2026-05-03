@@ -6,6 +6,10 @@ I build minimalist libraries and utilities that stay out of your way.
 > [!IMPORTANT]
 > RIP my [old account](https://github.com/UNSTABLE-PLUTONIUM) (2FA issues). Starting fresh here.
 
+### You Might Be Looking For
+*   [infobox](https://github.com/lulboi30/infobox)
+*   [climenu](https://github.com/lulboi30/climenu)
+
 ### 📜 The "Why" behind MIT
 I use the **MIT License** for everything. I'm not a fan of the GPL; I believe code should be truly free to use anywhere, by anyone, without hurdles. No thievery of rights—just pure utility. :)
 
@@ -20,4 +24,4 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   Maybe some improvements to [climenu](https://github.com/lulboi30/climenu)? no promises :)
 
 ### 👥 My Friends
-*   [Ariyan](https://github.com/Ariyan32144): Great guy. He's into AI and stuff as far as i remember
+*   [Ariyan](https://github.com/Ariyan32144)
