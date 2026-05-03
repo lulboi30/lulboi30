@@ -18,3 +18,6 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 
 ### 🏗️ Current Focus
 *   Maybe some improvements to [climenu](https://github.com/lulboi30/climenu)? no promises :)
+
+### 👥 My Friends
+*   [Ariyan](https://github.com/Ariyan32144): Great guy. He's into AI and stuff as far as i remember
