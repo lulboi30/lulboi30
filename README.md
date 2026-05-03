@@ -6,7 +6,7 @@ I build minimalist libraries and utilities that stay out of your way.
 > [!IMPORTANT]
 > RIP my [old account](https://github.com/UNSTABLE-PLUTONIUM) (2FA issues). Starting fresh here.
 
-### You Might Be Looking For
+### 🔎 You Might Be Looking For
 *   [infobox](https://github.com/lulboi30/infobox)
 *   [climenu](https://github.com/lulboi30/climenu)
 
