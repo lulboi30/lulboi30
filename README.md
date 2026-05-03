@@ -15,6 +15,4 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   **Web:** HTML, CSS, JS
 
 ### 🏗️ Current Focus
-*   Minimalist C header libraries
-*   TUI components and memory management
-*   Optimizing syscall wrappers
+*   Maybe Some Improvements To [climenu](https://github.com/lulboi30/climenu)? No Promises :)
