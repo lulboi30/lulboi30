@@ -13,6 +13,7 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   **Low-Level:** x86_64 Assembly (Intel/AT&T), C, C++
 *   **Scripting:** Ruby, Python, Bash
 *   **Web:** HTML, CSS, JS
+*   **OS:** Windows in my PC, Linux in my heart
 
 ### 🏗️ Current Focus
 *   Maybe Some Improvements To [climenu](https://github.com/lulboi30/climenu)? No Promises :)
