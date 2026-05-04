@@ -21,7 +21,7 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   **Environment:** msys2, mingw-ucrt64
 
 ### 🏗️ Current Focus
-*   Maybe some improvements to [climenu](https://github.com/lulboi30/climenu)? no promises :)
+*   Honsetly. Nothing.
 
 ### 👥 My Friends
 *   [Ariyan](https://github.com/Ariyan32144)
