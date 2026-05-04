@@ -18,7 +18,7 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   **Scripting:** Ruby, Python, Bash
 *   **Web:** HTML, CSS, JS
 *   **OS:** Windows in my PC, Linux in my heart
-*   **Environment:** msys2, mingw-ucrt64
+*   **Tools:** msys2, mingw-ucrt64, alacritty, vim, bash
 
 ### 🏗️ Current Focus
 *   Honsetly. Nothing.
