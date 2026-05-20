@@ -22,7 +22,7 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   **Tools:** msys2, mingw-ucrt64, alacritty, vim, bash
 
 ### 🏗️ Current Focus
-Honestly. Nothing.
+UTF-8 version of [infobox](https://github.com/lulboi30/infobox) using [utf8tools](https://github.com/lulboi30/utf8tools)
 
 ### 👥 My Friends
 *   [Ariyan](https://github.com/Ariyan32144)
