@@ -9,6 +9,7 @@ I build minimalist libraries and utilities that stay out of your way.
 ### 🔎 You Might Be Looking For
 *   [infobox](https://github.com/lulboi30/infobox)
 *   [climenu](https://github.com/lulboi30/climenu)
+*   [utf8tools](https://github.com/lulboi30/utf8tools)
 
 ### 📜 The "Why" behind MIT
 I use the **MIT License** for everything. I'm not a fan of the GPL; I believe code should be truly free to use anywhere, by anyone, without hurdles. No thievery of rights—just pure utility. :)
