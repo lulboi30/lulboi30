@@ -22,7 +22,7 @@ I use the **MIT License** for everything. I'm not a fan of the GPL; I believe co
 *   **Tools:** msys2, mingw-ucrt64, alacritty, vim, bash
 
 ### 🏗️ Current Focus
-*   Honestly. Nothing.
+Honestly. Nothing.
 
 ### 👥 My Friends
 *   [Ariyan](https://github.com/Ariyan32144)
